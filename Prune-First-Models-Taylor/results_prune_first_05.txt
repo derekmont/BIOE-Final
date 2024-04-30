@@ -1,0 +1,20 @@
+Base Params: 11.181129
+Base MACs: 1821.669385
+Pruned Params: 10.066435
+Pruned MACs: 1632.000245
+[Train #1] Loss: 0.1130 Acc: 54.3759% Time: 268.6853s
+[Train #2] Loss: 0.0519 Acc: 80.2009% Time: 550.2706s
+[Train #3] Loss: 0.0384 Acc: 85.5093% Time: 764.5182s
+[Train #4] Loss: 0.0327 Acc: 88.9527% Time: 943.2881s
+[Train #5] Loss: 0.0260 Acc: 90.8178% Time: 1196.3920s
+[Train #6] Loss: 0.0216 Acc: 93.8307% Time: 1476.5822s
+[Train #7] Loss: 0.0187 Acc: 93.9742% Time: 1756.2571s
+[Train #8] Loss: 0.0132 Acc: 96.2697% Time: 2036.5824s
+[Train #9] Loss: 0.0115 Acc: 97.1306% Time: 2317.1903s
+[Train #10] Loss: 0.0102 Acc: 97.2740% Time: 2598.4839s
+[Train #11] Loss: 0.0117 Acc: 97.4175% Time: 2879.5975s
+[Train #12] Loss: 0.0102 Acc: 97.1306% Time: 3160.6988s
+[Train #13] Loss: 0.0080 Acc: 98.5653% Time: 3442.9161s
+[Train #14] Loss: 0.0089 Acc: 97.4175% Time: 3583.3293s
+[Train #15] Loss: 0.0102 Acc: 97.7044% Time: 3709.3633s
+[Validation #15] Loss: 0.0598 Acc: 82.3204% Time: 3725.1687s
