@@ -1,7 +1,9 @@
 # Trade-Offs Between Compression and Accuracy for Skin Disease Classification in Edge Devices
 ### final report is in Final-Report_BIOE.pdf file
 
-# How to Run Code
+# Use user_test_colab.ipynb to run in Google Colab, no inputs needed - does a random pruning value
+
+# How to Run Code on Terminal
 ### example how to run test file: python user-test.py pruning_ratio
 ### pruning_ratio should be replaced with a pruning ratio (float value) greater than 0 and less than or equal to 1.0
 ### e.g. for 20% pruning ratio: python user-test.py 0.2 
