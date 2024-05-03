@@ -2,6 +2,8 @@
 ### final report is in Final-Report_BIOE.pdf file
 
 # Use user_test_colab.ipynb to run in Google Colab, no inputs needed - does a random pruning value
+## Please make sure train and val fodlers are in same directory you are running the ipynb file in
+## If you are using gpu on colab, there may be issues running the code, but with cpu should work fine
 
 # How to Run Code on Terminal
 ### example how to run test file: python user-test.py pruning_ratio
